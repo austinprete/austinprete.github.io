@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Austin Prete</title>
+    <link>http://austinprete.com/blog/</link>
+    <description>Recent content in Blogs on Austin Prete</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://austinprete.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sudoku Solver in Rust</title>
+      <link>http://austinprete.com/blog/sudoku-solver-in-rust/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://austinprete.com/blog/sudoku-solver-in-rust/</guid>
+      <description>For one of my first assignments in CS 2420 (Data Structures and Algorithms) at the University of Utah, we were tasked with writing sudoku solvers using both a constraint-based algorithm and a recursive brute force algorithm. While the assignment was initially in Java, I currently have an interest in learning Rust, so I decided to implement the recursive solver in Rust as well. The source code can be found here. It is very fast, solving even a 17 clue puzzle (the minimum possible with a unique solution), in just over a millisecond.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://austinprete.com/blog/welcome/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://austinprete.com/blog/welcome/</guid>
+      <description>Welcome to my new blog! This will be a collection of musings related to my computer science studies, my personal coding projects, my hobbies, and my exploration of bioinformatics. While nothing here will be novel, it should give you a basic idea of who I am and what I&amp;rsquo;m currently doing in my life.</description>
+    </item>
+    
+  </channel>
+</rss>

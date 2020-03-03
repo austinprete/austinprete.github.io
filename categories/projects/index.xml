@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Austin Prete</title>
-    <link>http://austinprete.com/categories/projects/</link>
+    <link>https://austinprete.com/categories/projects/</link>
     <description>Recent content in projects on Austin Prete</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://austinprete.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://austinprete.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://austinprete.com/projects/</link>
+      <link>https://austinprete.com/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://austinprete.com/projects/</guid>
+      <guid>https://austinprete.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://austinprete.com/projects_backup/</link>
+      <link>https://austinprete.com/projects_backup/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://austinprete.com/projects_backup/</guid>
+      <guid>https://austinprete.com/projects_backup/</guid>
       <description> &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;  </description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Austin Prete</title>
-    <link>http://austinprete.com/categories/</link>
+    <link>https://austinprete.com/categories/</link>
     <description>Recent content in Categories on Austin Prete</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 28 Jul 2018 01:52:59 -0500</lastBuildDate>
     
-	<atom:link href="http://austinprete.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://austinprete.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>vitae</title>
-      <link>http://austinprete.com/categories/vitae/</link>
+      <link>https://austinprete.com/categories/vitae/</link>
       <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
       
-      <guid>http://austinprete.com/categories/vitae/</guid>
+      <guid>https://austinprete.com/categories/vitae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>http://austinprete.com/categories/projects/</link>
+      <link>https://austinprete.com/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://austinprete.com/categories/projects/</guid>
+      <guid>https://austinprete.com/categories/projects/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,132 @@
+.lplistgrid ul {
+    list-style: none;
+    padding-left: 0em;
+}
+
+.lplistgrid div.lplistitem {
+border-bottom: 0.091em solid #E7E7E7;
+
+border-right: 0.091em solid #E7E7E7;
+width: 100%;
+-webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;
+
+}
+
+.lplistitem { position:relative; } 
+
+.lplistgrid div.lplistitem.fldr {
+
+
+
+    
+
+}
+
+.lplistgrid .lplistitem span {
+    width: 100%;
+}
+
+.lplistgrid a {
+    padding: 1.3em 0.5em;
+    display: block;
+    padding-left: 2.4em;
+    white-space: normal;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.lplistgrid a:link, .nui-myfav-gb a:visited, .nui-myfav-gb a:hover, .nui-myfav-gb a:active, .nui-myfav-gb a:focus {
+  color: #2e6596;
+  text-decoration: none;
+}
+
+.lplistgrid div.lplistitem:hover {
+    background-color: #ffffeb;
+}
+
+.lplistgrid div.lplistitem:active {
+    background-color: rgba(26,54,78,0.4);
+}
+
+
+
+.lplistgrid .ps_box-menuitem > .ps_box-link > .ps-link-wrapper > .ps-link {
+    padding: 1.3em 0.5em;
+    display: block;
+    padding-left: 2.4em;
+    white-space: normal;
+    font-family: Arial;
+    font-weight: bold;
+    color: #2e6596;
+    text-decoration: none;
+}
+
+.lplistgrid .ps_box-menuitem > .ps_box-link.nbcontempty > .ps-link-wrapper > .ps-link {
+    background-color: #f7f7f7;
+    color: #626262;
+    font-weight: normal;
+    cursor: default;
+}
+
+.lplistgrid .ps_box-menuitem > not(.ps_box-link.nbcontempty) > .ps-link-wrapper > .ps-link:hover, .ps_box-menuitem > not(.ps_box-link.nbcontempty) > .ps-link-wrapper > .ps-link:active {
+    background-color: #ffffeb;
+    color: #2e6596;
+    text-decoration: none;
+}
+
+
+
+@media all and (orientation: portrait) {
+    :root.psc_form-small .ptnavbar .lplistgrid a {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    :root.psc_form-small .nbbody .nui-myfav-gb {
+        bottom: 0em;
+    }
+	 
+    :root.psc_form-small .ptnavbar .lplistgrid .psnbefav a {
+        
+        padding-left: 2.5em;
+        padding-right: 1em;
+    }
+}
+
+
+.lplistgrid div.lplistitem.fldr a:after{
+    content: url('/cs/heprod/cache/PT_NUI_CHEVRON_1.svg');
+
+    display:inline-block;
+    position:absolute;
+    top:50%;
+    margin-top:-6px;
+    right:3%;
+}
+
+
+.lplistgrid .lpsffopt {
+ position: relative;
+ top: -2.8em;
+ left:93%;
+ height:0px;
+}
+
+
+.ps-drag-start {
+    outline: 3px dashed #f3a913 !important;
+    outline-offset: -6px !important;
+}
+
+.ps-drag-over {
+    outline: 3px solid #f3a913 !important;
+    outline-offset: -6px !important;
+}
+
+.ps-drag {
+    outline: 3px dashed #f3a913 !important;
+    outline-offset: -6px !important;
+    opacity: 0.5 !important;
+}
+
+

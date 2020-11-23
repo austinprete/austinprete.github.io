@@ -1,0 +1,22 @@
+
+
+.psa_pagetitle {
+	float:left;
+	margin-top:1em;
+}
+
+
+.psa_pageaction {
+	float:right;
+	margin-top:1em;
+}
+
+
+.psa_panel-content {
+    max-width:1024px;
+}
+
+
+.ps_header_bar > .ps_pagetitle_cont {
+	text-align:center !important;
+}
